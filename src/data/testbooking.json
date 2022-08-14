@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Tittle": "mudely",
+    "FirstName": "pearson1",
+    "Surname": "Else",
+    "Email": "person1@else.com",
+    "Room id": "1",
+    "Check in date": "2017-11-21",
+    "Check out date": "2017-11-21"
+  },
+  {
+    "id": 2,
+    "Tittle": "mambo",
+    "FirstName": "pearson2",
+    "Surname": "Else",
+    "Email": "person2@else.com",
+    "Room id": "1",
+    "Check in date": "2017-11-21",
+    "Check out date": "2017-11-21"
+  },
+  {
+    "id": 3,
+    "Tittle": "jah rule",
+    "FirstName": "pearson3",
+    "Surname": "Else",
+    "Email": "person3@else.com",
+    "Room id": "1",
+    "Check in date": "2017-11-21",
+    "Check out date": "2017-11-21"
+  }
+]

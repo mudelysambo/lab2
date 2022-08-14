@@ -1,0 +1,23 @@
+img {
+  width: 40%;
+  
+}
+.car {
+  margin: 1rem;
+}
+.card .heading {
+  padding: 0;
+}
+.card .heading .img {
+  display: block;
+}
+.card .body {
+  background-color: #e5ebea;
+  border: 1px solid black;
+  width: 400px;
+  border-radius: 5px;
+}
+.card .body p {
+  background-color: #ecbff8;
+  display: block;
+}

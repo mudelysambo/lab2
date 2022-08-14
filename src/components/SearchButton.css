@@ -1,0 +1,17 @@
+.text {
+  border-bottom: 1px solid black;
+}
+
+h3 {
+  display: inline;
+  padding: 20px;
+}
+.heading h3 {
+  border-top: 1px solid black;
+}
+.heading h1 {
+  text-align: left;
+}
+button {
+  background-color: lightblue;
+}
